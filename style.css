@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Josefin+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Josefin+Sans:ital@1&family=Secular+One&display=swap');
+
+*{
+    padding: 0;
+    margin:0;
+}
+.principal{
+    display: flex;
+    margin: 50px;
+    justify-content: space-evenly;
+}
+
+.linea{
+    margin-left: 25px;
+    border: 5px solid black;
+    border-radius: 5%;
+    margin-right: 10px;
+
+}
+.titulo{
+    text-align: center;
+}
+
+
+.tamaño-img{
+    width: 250px;
+    height: 100px;
+    margin: 50px;
+    border-radius: 15px;
+}
+.imagen1{
+    width: 200px;
+    height: 150px;
+    border-radius: 15px;
+
+}
+.img3{
+    border-radius: 15px;
+}
+.titulo{
+    background-color:red;
+    border-radius: 15px;
+}
+.titulo2{
+    background-color: gold;
+    border-radius: 15px;
+}
+.titulo3{
+    background-color: blue;
+    border-radius: 15px;
+}
+.parrafo1{
+    font-family: 'Fjalla One', sans-serif;
+
+}
+.parrafo2{
+    font-family: 'Fjalla One', sans-serif;
+
+}
+.parrafo3{
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Secular One', sans-serif;
+
+}
